@@ -1,7 +1,1 @@
-Flask
-PyRoxy
-python-telegram-bot==13.15
-requests
-#subprocess
-#re
-imghdr
+python-3.11.9
